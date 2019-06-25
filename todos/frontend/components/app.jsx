@@ -3,7 +3,7 @@ import ToDoListContainer from './todos/todo_list_container'
 
 const App = () => (
   <div>
-    <h1>this will work... maybe</h1>
+    <h1>Things that I say I'll do but probably will not do</h1>
     <ToDoListContainer />
   </div>
 );
